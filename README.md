@@ -4,11 +4,8 @@ Diinginkan implementasi penghitungan nilai integral fungsi tersebut secara numer
 Data hasil pengujian, kode testing 1:
 
 N = 10: Pi Aproksimasi = 3.239925988907, Error RMS = 0.098333335317, Waktu Eksekusi = 0.000000 seconds
-
 N = 100: Pi Aproksimasi = 3.151575986923, Error RMS = 0.009983333333, Waktu Eksekusi = 0.000000 seconds
-
 N = 1000: Pi Aproksimasi = 3.142592486923, Error RMS = 0.000999833333, Waktu Eksekusi = 0.000000 seconds
-
 N = 10000: Pi Aproksimasi = 3.141692651923, Error RMS = 0.000099998333, Waktu Eksekusi = 0.002969 seconds
 
 Data hasil pengujian, kode testing 2:
